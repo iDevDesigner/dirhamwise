@@ -1,3 +1,0 @@
-# We use `prisma migrate deploy` with the PostgreSQL schema in production
-# (see vercel.json). Local development uses SQLite + `bun run db:push`.
-provider = "postgresql"
